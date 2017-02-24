@@ -9,7 +9,7 @@ Credit: "Global Map of Ethiopia © ISCGM/EMA"
 
 Contact: the Ethiopian Mapping Agency (EMA).
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/ethiopia.png)
+E-mail: ![email](email.png)
 
 ## metadata
 ### Global Map Ethiopia 1.0: Land Cover 1.0
